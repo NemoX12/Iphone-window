@@ -1,0 +1,38 @@
+.body {
+    width: 340px;
+    height: 640px;
+    background-image: url(img/9to5mac.webp);
+    background-size: 340px;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+    border: 10px solid;
+}
+
+.cholka {
+    width: 100px;
+    height: 25px;
+    background-color: black;
+    margin-left: 120px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.navbar {
+    width: 150px;
+    height: 5px;
+    background-color: white;
+    border-radius: 12px;
+    margin-top: 605px;
+    margin-left: 95px;
+    opacity: 0.7;
+}
+
+.img {
+    width: 340px;
+    height: 640px;
+}
+
+.logo {
+    margin-left: 400px;
+    width: 100px;
+}
